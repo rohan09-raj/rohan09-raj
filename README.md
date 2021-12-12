@@ -1,15 +1,15 @@
-### Hi there 👋
+# Hi 👋, I am Rohan Raj Gupta
+### Front-end Developer | Android Developer
 
-**rohan09-raj/rohan09-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ReactJS, EmberJS, and JS 
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=rohan09-raj&color=orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![trophy](https://github-profile-trophy.vercel.app/?username=rohan09-raj)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohan09-raj)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&layout=compact)
+
+### Reach me at : 
+https://www.linkedin.com/in/rohan-raj-gupta-1a3465190
