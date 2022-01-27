@@ -30,4 +30,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&layout=compact)
 
 ### Reach me at : 
-https://www.linkedin.com/in/rohan-raj-gupta-1a3465190
+[LinkedIn](https://www.linkedin.com/in/rohan-raj-gupta-1a3465190)
+[Twitter](https://twitter.com/RohanRajGupta6)
