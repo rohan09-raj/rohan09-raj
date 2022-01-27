@@ -3,6 +3,11 @@
 
 - 🌱 I’m currently learning ReactJS, EmberJS, and JS 
 
+### Reach me at : 
+[LinkedIn](https://www.linkedin.com/in/rohan-raj-gupta-1a3465190)
+[Twitter](https://twitter.com/RohanRajGupta6)
+**Email:** rajrohan1914@gmail.com 
+
 ### Technologies and Tools :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +33,3 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohan09-raj)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&layout=compact)
-
-### Reach me at : 
-[LinkedIn](https://www.linkedin.com/in/rohan-raj-gupta-1a3465190)
-[Twitter](https://twitter.com/RohanRajGupta6)
