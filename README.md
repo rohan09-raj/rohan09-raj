@@ -1,23 +1,14 @@
 # Hi 👋, I am Rohan Raj Gupta
 ### Front-end Developer
 
+![](https://komarev.com/ghpvc/?username=rohan09-raj&color=orange)
+
 - 🌱 I’m currently learning ReactJS, EmberJS, and JS 
 
-<p align='center' >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan09-raj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
-</br>
-</br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan09-raj&theme=dark" alt="Rohan's Github Stats">
-</br>
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
-</p>
-<br />
-
 ### Reach me at : 
-[LinkedIn](https://www.linkedin.com/in/rohan-raj-gupta-1a3465190)
-[Twitter](https://twitter.com/RohanRajGupta6)
-**Email:** rajrohan1914@gmail.com 
+<a href="https://www.linkedin.com/in/rohan-raj-gupta-1a3465190"><img src="https://img.shields.io/badge/-Rohan%20Raj%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://twitter.com/RohanRajGupta6"><img src="https://img.shields.io/badge/-Rohan%20Raj%20Gupta-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:rajrohan1914@gmail.com"><img src="https://img.shields.io/badge/-Rohan Gupta-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### Technologies and Tools :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,6 +28,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=rohan09-raj&color=orange)
+<p align='center' >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan09-raj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
+</br>
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan09-raj&theme=dark" alt="Rohan's Github Stats">
+</br>
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
+</p>
+<br />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohan09-raj)
