@@ -1,7 +1,18 @@
 # Hi 👋, I am Rohan Raj Gupta
-### Front-end Developer | Android Developer
+### Front-end Developer
 
 - 🌱 I’m currently learning ReactJS, EmberJS, and JS 
+
+<p align='center' >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan09-raj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
+</br>
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan09-raj&theme=dark" alt="Rohan's Github Stats">
+</br>
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohan's Github Stats">
+</p>
+<br />
 
 ### Reach me at : 
 [LinkedIn](https://www.linkedin.com/in/rohan-raj-gupta-1a3465190)
@@ -29,7 +40,3 @@
 ![](https://komarev.com/ghpvc/?username=rohan09-raj&color=orange)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohan09-raj)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohan09-raj)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan09-raj&layout=compact)
