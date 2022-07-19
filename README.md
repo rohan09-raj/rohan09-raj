@@ -44,5 +44,3 @@
 <br />
 
 ![trophy]()
-
-[Rohan_Raj Gupta_Resume_29-04-2022-12-47-58.pdf](https://github.com/rohan09-raj/rohan09-raj/files/8588852/Rohan_Raj.Gupta_Resume_29-04-2022-12-47-58.pdf)
