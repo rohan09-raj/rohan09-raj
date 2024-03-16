@@ -1,9 +1,8 @@
 # Hi 👋, I am Rohan Raj Gupta
-### Front-end Developer
-
+### Software Engineer
 ![](https://komarev.com/ghpvc/?username=rohan09-raj&color=orange)
 
-- 🌱 I’m currently learning ReactJS, EmberJS, and JS 
+- 🌱 I’m currently looking for opportunities to showcase my skills and benefit the organization I'm into
 
 
 [![@rohan09's Holopin board](https://holopin.io/api/user/board?user=rohan09)](https://holopin.io/@rohan09)
